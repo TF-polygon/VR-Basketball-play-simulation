@@ -12,7 +12,9 @@ Controller controls are as follow:
 - Right Controller `Joystick` : Rotates 90 degree to user's view.
 - Right Controller `Index finger button` : Catch the ball.
   - If you catch the ball in virtual reality, you can throw it during swing your arm and release the button.
-
+ 
+<img src="https://github.com/TF-polygon/VR-Basketball-play-simulation/assets/111733156/1f9912e7-10bd-4e5c-a92a-bd1d9d4bff09">
+<br>
 
 ## Depencies
 - Oculus Quest 2
