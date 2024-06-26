@@ -16,7 +16,7 @@ Controller controls are as follow:
 <img src="https://github.com/TF-polygon/VR-Basketball-play-simulation/assets/111733156/1f9912e7-10bd-4e5c-a92a-bd1d9d4bff09">
 <br>
 
-## Depencies
+## Dependcies
 - Oculus Quest 2
 - Unity C#   >=  2020.3.32f1
 
